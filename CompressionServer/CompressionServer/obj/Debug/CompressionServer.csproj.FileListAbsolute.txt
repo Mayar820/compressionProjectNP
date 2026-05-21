@@ -1,0 +1,7 @@
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\bin\Debug\CompressionServer.exe.config
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\bin\Debug\CompressionServer.exe
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\bin\Debug\CompressionServer.pdb
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\obj\Debug\CompressionServer.csproj.AssemblyReference.cache
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\obj\Debug\CompressionServer.csproj.CoreCompileInputs.cache
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\obj\Debug\CompressionServer.exe
+C:\Users\TechZone\source\repos\CompressionProject\CompressionServer\CompressionServer\obj\Debug\CompressionServer.pdb

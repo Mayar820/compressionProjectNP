@@ -1,0 +1,10 @@
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\bin\Debug\CompressionClient.exe.config
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\bin\Debug\CompressionClient.exe
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\bin\Debug\CompressionClient.pdb
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.csproj.AssemblyReference.cache
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.Form1.resources
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.Properties.Resources.resources
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.csproj.GenerateResource.cache
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.csproj.CoreCompileInputs.cache
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.exe
+C:\Users\TechZone\source\repos\CompressionProject\CompressionClient\CompressionClient\obj\Debug\CompressionClient.pdb
